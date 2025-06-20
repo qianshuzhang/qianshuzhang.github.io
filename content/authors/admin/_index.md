@@ -24,7 +24,7 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: City University of Hong Kong
     url: https://openai.com/
 
 # Social network links
@@ -47,13 +47,13 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian Econometrics
+  - Empirical Asset Pricing
+  - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Business Statistics
+    institution: City University of Hong Kong
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
