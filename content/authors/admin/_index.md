@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 张芊澍
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Qianshu Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Qianshu
+last_name: Zhang
 
 # Status emoji
 status:
@@ -24,7 +24,7 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: City University of Hong Kong
     url: https://openai.com/
 
 # Social network links
