@@ -3,7 +3,7 @@
 title: Qianshu Zhang (张芊澍)
 
 # Name pronunciation (optional)
-# name_pronunciation: 
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Qianshu
