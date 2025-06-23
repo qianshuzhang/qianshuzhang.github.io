@@ -23,13 +23,13 @@ repository               : "qianshuzhang/qianshuzhang.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Qianshu ZHANG"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "City University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qszhang7-c at my.cityu.edu.hk" 
 
   # Academic websites
   academia         : # URL
