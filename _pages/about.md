@@ -11,3 +11,7 @@ PhD Candidate in Business Statistics, Department of Decision Analysis and Operat
 
 You can find my CV here: [Qianshu ZHANG's Curriculum Vitae](../assets/CV_Qianshu_ZHANG.pdf).
 
+Education
+======
+* Ph.D in Business Statistics, City University of Hong Kong, 2026 (expected)
+* B.S. in Financial Management, Nankai University, 2022
