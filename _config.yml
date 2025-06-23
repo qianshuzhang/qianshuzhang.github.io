@@ -26,15 +26,15 @@ author:
   name             : "Qianshu ZHANG"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
-  location         : "Earth"
+  location         : "Hong Kong SAR"
   employer         : "City University of Hong Kong"
   uri              : # URL
-  email            : "qszhang7-c at my.cityu.edu.hk" 
+  email            : "qszhang7-c@my.cityu.edu.hk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=nhDTA0wAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
