@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV here: [Qianshu ZHANG's Curriculum Vitae](../assets/CV_Qianshu_ZHANG.pdf).
+
 Education
 ======
 * Ph.D in Business Statistics, City University of Hong Kong, 2026 (expected)
