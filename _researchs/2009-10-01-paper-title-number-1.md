@@ -4,8 +4,8 @@ collection: researchs
 category: working_paper
 permalink: /research/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-10-01
-venue: 'Journal 1'
+# date: 2024-10-01
+# venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4888163'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
