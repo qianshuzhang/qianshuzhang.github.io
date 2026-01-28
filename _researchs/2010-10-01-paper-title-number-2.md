@@ -6,7 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '*Major Revision, Management Science*'
 date: 13 Jun 2025
 # venue: '*Major Revision, Management Science*'
-slidesurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5290174'
+# slidesurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5290174'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5290174'
 # citation: 'Chib S, Feng G, He J, Zhang Q. Beyond Beta Pricing: SDF Selection from Euler-Restricted Traded–Nontraded Factor–Return Models. Available at SSRN 5290174. 2025 Feb 1.'
 ---
