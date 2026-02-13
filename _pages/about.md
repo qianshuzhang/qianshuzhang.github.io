@@ -13,6 +13,8 @@ I am fortunate to be advised by [Prof. Guanhao Feng](https://gavinfeng702.com/) 
 
 You can find my CV here: [Qianshu ZHANG's Curriculum Vitae](../assets/CV_Qianshu_ZHANG.pdf).
 
+qszhang7-c_AT_my_DOT_cityu_DOT_edu_DOT_hk
+
 Education
 ======
 * Ph.D in Business Statistics (Finance), City University of Hong Kong, 2026 (expected)
