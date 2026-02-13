@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 PhD Candidate in Business Statistics (Finance), Department of Decision Analysis and Operations, City University of Hong Kong
+
 I am fortunate to be advised by [Prof. Guanhao Feng](https://gavinfeng702.com/) and [Prof. Jingyu He](https://jingyuhe.com/).
 
 You can find my CV here: [Qianshu ZHANG's Curriculum Vitae](../assets/CV_Qianshu_ZHANG.pdf).
