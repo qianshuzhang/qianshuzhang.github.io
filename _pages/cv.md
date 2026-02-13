@@ -42,7 +42,7 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Researchs
+Research
 ======
   <ul>{% for post in site.researchs reversed %}
     {% include archive-single-cv.html %}
