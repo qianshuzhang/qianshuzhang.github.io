@@ -13,7 +13,7 @@ I am fortunate to be advised by [Prof. Guanhao Feng](https://gavinfeng702.com/) 
 
 You can find my CV here: [Qianshu ZHANG's Curriculum Vitae](../assets/CV_Qianshu_ZHANG.pdf).
 
-qszhang7-c[at]my[dot]cityu[dot]edu[dot]hk
+Email: qszhang7-c[at]my[dot]cityu[dot]edu[dot]hk
 
 Education
 ======
