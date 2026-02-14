@@ -11,7 +11,7 @@ PhD Candidate in Business Statistics (Finance), Department of Decision Analysis 
 
 I am fortunate to be advised by [Prof. Guanhao Feng](https://gavinfeng702.com/) and [Prof. Jingyu He](https://jingyuhe.com/).
 
-You can find my CV here: [Qianshu ZHANG's Curriculum Vitae](../assets/CV_Qianshu_ZHANG.pdf).
+CV: [Qianshu ZHANG's Curriculum Vitae](../assets/CV_Qianshu_ZHANG.pdf).
 
 Email: qszhang7-c[at]my[dot]cityu[dot]edu[dot]hk
 
