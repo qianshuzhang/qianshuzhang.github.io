@@ -4,7 +4,7 @@ collection: researchs
 category: working_paper
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '*Major Revision, Management Science*'
-date: 13 Jun 2025
+# date: 13 Jun 2025
 # venue: '*Major Revision, Management Science*'
 # slidesurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5290174'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5290174'
