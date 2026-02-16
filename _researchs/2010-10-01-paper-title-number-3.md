@@ -18,3 +18,5 @@ priced primarily among low-volatility, large-cap stocks, but they command premia
 generates substantial economic value: cluster-based portfolios yield high Sharpe ratios and alphas unspanned by standard factors. We rationalize these findings
 through a segmented markets framework, where informational frictions create local marginal investors. Our results suggest that part of the “factor zoo” reflects
 segmentation: factors can be priced in some segments but not others.
+
+**Paper:** [SSRN link]("https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4219905")
