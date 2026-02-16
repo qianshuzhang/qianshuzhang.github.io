@@ -4,7 +4,7 @@ collection: researchs
 category: working_paper
 permalink: /research/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 12 Jul 2024
+# date: 12 Jul 2024
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4888163'
