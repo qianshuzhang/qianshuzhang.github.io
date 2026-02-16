@@ -14,7 +14,7 @@ CV: [Qianshu ZHANG's Curriculum Vitae](../assets/CV_Qianshu_ZHANG.pdf).
 Education
 ======
 * Ph.D in Business Statistics (Finance), City University of Hong Kong, 2026 (expected)
-* B.M in Financial Management, Nankai University, 2022
+* B.M. in Financial Management, Nankai University, 2022
 
 <!-- Work experience
 ======
