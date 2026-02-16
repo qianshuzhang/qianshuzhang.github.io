@@ -4,7 +4,7 @@ collection: researchs
 category: working_paper
 permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: ''
-# date:  11 Nov 2025
+date:  11 Nov 2025
 # venue: 'Journal 1'
 # slidesurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5290174'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4219905'
