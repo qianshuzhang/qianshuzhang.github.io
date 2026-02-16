@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Qianshu ZHANG's Curriculum Vitae](../assets/CV_Qianshu_ZHANG.pdf).
+CV: [Qianshu ZHANG's Curriculum Vitae](../assets/CV_Qianshu_ZHANG.pdf).
 
 Education
 ======
-* Ph.D in Business Statistics, City University of Hong Kong, 2026 (expected)
-* B.B.A in Financial Management, Nankai University, 2022
+* Ph.D in Business Statistics (Finance), City University of Hong Kong, 2026 (expected)
+* B.M in Financial Management, Nankai University, 2022
 
 <!-- Work experience
 ======
