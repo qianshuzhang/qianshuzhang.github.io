@@ -3,7 +3,7 @@ title: "Currency Return Dynamics: What Is the Role of US Macroeconomic Regimes?"
 collection: researchs
 category: working_paper
 permalink: /research/2009-10-01-paper-title-number-1
-excerpt: ''
+excerpt: '*Revise and Resubmit, Journal of Financial and Quantitative Analysis*'
 date: 12 Jul 2024
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
